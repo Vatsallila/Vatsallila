@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vatsal Lila</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/vatsallila" target="blank"><img src="https://img.shields.io/twitter/follow/vatsallila?logo=twitter&style=for-the-badge" alt="vats.al_lila" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vatsallila" target="blank"><img src="https://img.shields.io/twitter/follow/vatsallila?logo=twitter&style=for-the-badge" alt="vatsallila" /></a> </p>
 
 - 📫 How to reach me **vatsall2003@gmail.com**
 
@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/vatsallila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vatsallila" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lila-vatsal-269425227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lila-vatsal-269425227" height="30" width="40" /></a>
-<a href="https://instagram.com/vatsallila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vatsallila" height="30" width="40" /></a>
+<a href="https://instagram.com/vats.al_lila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vatsallila" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
